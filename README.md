@@ -7,6 +7,7 @@ Building a Drupal annotation solution from scratch.
   - [jQuery Update](https://www.drupal.org/project/jquery_update)
   - [Views Expost](https://www.drupal.org/project/views_expost)
   - [Views](https://www.drupal.org/project/views)
+    - Also enable "Views UI" from the Module page (it's included in the Views module install)
   - [Better Exposed Filters](https://www.drupal.org/project/better_exposed_filters)
   - [Ctools](https://www.drupal.org/project/ctools)
   
