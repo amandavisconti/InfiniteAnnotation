@@ -2,7 +2,9 @@
 Building a Drupal annotation solution from scratch.
 
 # Installation!
-In cases where installing a module results in multiple checkboxes added to the module admin page (e.g. installing the Views module adds checkboxes for Views and Views UI), I'll specify below if anything but the checkbox next to the name of the module needs to be checked.
+*Notes*: In cases where installing a module results in multiple checkboxes added to the module admin page (e.g. installing the Views module adds checkboxes for Views and Views UI), I'll specify below if anything but the checkbox next to the name of the module needs to be checked.
+
+Before installing the modules, create subfolders named "custom" and a "contrib" in your sites/all/modules folder; install any modules you get from Drupal.org (contributed modules) in "contrib", and any custom modules (modules whose code has been altered from what's on Drupal.org, or aren't even on Drupal.org) into the "custom" folder. This will help you keep track of modules where code has been altered, which is important as installing the latest update of a module can overwrite custom changes.
 
 - Install and enable the latest versions of the following modules:
   - [jQuery Update](https://www.drupal.org/project/jquery_update)
@@ -34,4 +36,7 @@ In cases where installing a module results in multiple checkboxes added to the m
   
 - Views (admin/structure/views)
   - Click the "import" link
+  - 
+
+- Permissions (admin/people/permissions)
   - 
