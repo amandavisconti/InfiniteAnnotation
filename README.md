@@ -4,10 +4,10 @@ Building a Drupal annotation solution from scratch.
 # Installation!
 
 - Install and enable the latest versions of the following modules:
-  - jQuery Update
-  - Views Expost
-  - Views
-  - Better Exposed Filters
+  - [jQuery Update](https://www.drupal.org/project/jquery_update)
+  - [Views Expost](https://www.drupal.org/project/views_expost)
+  - [Views](https://www.drupal.org/project/views)
+  - [Better Exposed Filters](https://www.drupal.org/project/better_exposed_filters)
   
 - Install and enable the following custom modules:
     - *Note*: the first two modules below are custom versions of these modules, *not* the modules you may find on Drupal.org
