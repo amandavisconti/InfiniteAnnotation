@@ -8,6 +8,7 @@ Building a Drupal annotation solution from scratch.
   - [Views Expost](https://www.drupal.org/project/views_expost)
   - [Views](https://www.drupal.org/project/views)
   - [Better Exposed Filters](https://www.drupal.org/project/better_exposed_filters)
+  - [Ctools](https://www.drupal.org/project/ctools)
   
 - Install and enable the following custom modules:
     - *Note*: the first two modules below are custom versions of these modules, *not* the modules you may find on Drupal.org
