@@ -36,7 +36,8 @@ Before installing the modules, create subfolders named "custom" and a "contrib" 
   
 - Views (admin/structure/views)
   - Click the "import" link
-  - 
+    - Name: annosidebar
+    - Paste in the text found in this repo at AnnosidebarViewImport.txt
 
 - Permissions (admin/people/permissions)
   - 
