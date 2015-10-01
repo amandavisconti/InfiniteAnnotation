@@ -35,7 +35,7 @@ Before installing the modules, create subfolders named "custom" and a "contrib" 
   - Sidebar region for view block
   
 - Views (admin/structure/views)
-  - Click the "import" link
+  - Click the "import" link. (*Note*: Currently, Drupal requires you to be logged in as UID 1 to see and use the "import view" link. UID 1 means the user with the ID 1—that is, the first user on the site, created during the Drupal installation process.)
     - Name: annosidebar
     - Paste in the text found in this repo at AnnosidebarViewImport.txt
 
