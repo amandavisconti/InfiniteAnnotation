@@ -1,5 +1,5 @@
 # InfiniteAnnotation
-Building a Drupal annotation solution from scratch. Amanda should add a link to Hypothesis annotation for this page here when this is made public, so that anyone can note where these instructions need improvement/where they got stuck.
+Building a Drupal annotation solution from scratch. **Amanda should add a link to Hypothesis annotation for this page here when this is made public, so that anyone can note where these instructions need improvement/where they got stuck.**
 
 # Installation!
 *Notes*: In cases where installing a module results in multiple checkboxes added to the module admin page (e.g. installing the Views module adds checkboxes for Views and Views UI), I'll specify below if anything but the checkbox next to the name of the module needs to be checked.
