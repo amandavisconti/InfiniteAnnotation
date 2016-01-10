@@ -1,5 +1,5 @@
 # InfiniteAnnotation
-Building a Drupal annotation solution from scratch. **Amanda will add a link to Hypothesis annotation for this page here when these instructions are ready to be followed by the public, so that anyone can note where these instructions need improvement/where they got stuck.**
+Building a Drupal social reading & annotation solution. The goal is to package this as a VM with good enough documentation that someone new to Drupal can spin up their own participatory digital edition. Work on this will continue throughout 2016; contact amandavisconti@gmail.com or @literature_geek on Twitter if you're interested in using this in your own project.  **Amanda will add a link to Hypothesis annotation for this page here when these instructions are ready to be followed by the public, so that anyone can note where these instructions need improvement/where they got stuck.**
 
 # Installation!
 *Notes*: In cases where installing a module results in multiple checkboxes added to the module admin page (e.g. installing the Views module adds checkboxes for Views and Views UI), I'll specify below if anything but the checkbox next to the name of the module needs to be checked.
